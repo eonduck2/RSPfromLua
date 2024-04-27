@@ -1,0 +1,4 @@
+{
+    "game": ["data.lua", "game.lua"], 
+    "ui": ["ui.lua"]
+}
